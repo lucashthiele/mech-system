@@ -1,0 +1,13 @@
+package com.lucashthiele.mechsystem;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class MechSystemApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
